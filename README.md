@@ -20,7 +20,7 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Overview](todoApp-Overview.png)
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
