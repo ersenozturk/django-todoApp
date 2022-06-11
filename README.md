@@ -5,7 +5,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://django-todoapp-project.herokuapp.com/">
       Demo
     </a>
      | 
@@ -69,7 +69,5 @@ $ git clone https://github.com/your-user-name/your-project-name
 ## Contact
 
 - Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [ersenozturk](https://github.com/ersenozturk)
+- Linkedin [ersenozturk](https://www.linkedin.com/in/ozturkersen/)
